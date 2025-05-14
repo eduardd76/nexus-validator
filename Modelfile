@@ -1,0 +1,2 @@
+FROM phi3
+PARAMETER use_gpu false
